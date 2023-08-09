@@ -1,0 +1,20 @@
+
+insert into rôles (id, nom) values (2, 'Hellewell');
+insert into rôles (id, nom) values (3, 'Tomes');
+insert into rôles (id, nom) values (4, 'Bleas');
+insert into rôles (id, nom) values (5, 'Grimwood');
+insert into rôles (id, nom) values (6, 'Swatton');
+insert into rôles (id, nom) values (7, 'McIntosh');
+insert into rôles (id, nom) values (8, 'Crossman');
+insert into rôles (id, nom) values (9, 'Snedden');
+insert into rôles (id, nom) values (10, 'Boothe');
+insert into rôles (id, nom) values (11, 'D''eath');
+insert into rôles (id, nom) values (12, 'Ledgley');
+insert into rôles (id, nom) values (13, 'Redier');
+insert into rôles (id, nom) values (14, 'Stubbins');
+insert into rôles (id, nom) values (15, 'Abrehart');
+insert into rôles (id, nom) values (16, 'Botting');
+insert into rôles (id, nom) values (17, 'Craiker');
+insert into rôles (id, nom) values (18, 'Sidebotton');
+insert into rôles (id, nom) values (19, 'Minster');
+insert into rôles (id, nom) values (20, 'Jayume');

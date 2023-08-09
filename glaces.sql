@@ -1,0 +1,20 @@
+
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (2, 21, '19/03/2023', '15/03/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (3, 36, '06/10/2022', '19/06/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (4, 21, '12/10/2022', '07/12/2022');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (5, 11, '16/07/2023', '01/10/2022');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (6, 17, '30/12/2022', '04/03/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (7, 39, '19/10/2022', '09/02/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (8, 12, '20/09/2022', '20/08/2022');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (9, 13, '14/11/2022', '01/09/2022');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (10, 14, '01/06/2023', '25/05/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (11, 16, '28/02/2023', '16/07/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (12, 33, '11/10/2022', '10/03/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (13, 24, '20/11/2022', '08/01/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (14, 16, '29/04/2023', '11/01/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (15, 24, '25/12/2022', '23/05/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (16, 38, '26/04/2023', '19/05/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (17, 18, '05/12/2022', '13/01/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (18, 39, '27/03/2023', '31/07/2023');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (19, 34, '15/01/2023', '12/12/2022');
+insert into glaces (id, volume, date_de_production, date_de_sortie) values (20, 40, '12/02/2023', '27/10/2022');

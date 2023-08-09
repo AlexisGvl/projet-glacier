@@ -1,0 +1,20 @@
+
+insert into parfums (id, nom, description) values (2, 'Coppin', 'sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus');
+insert into parfums (id, nom, description) values (3, 'Buxcy', 'augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit');
+insert into parfums (id, nom, description) values (4, 'Sharpley', 'faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus');
+insert into parfums (id, nom, description) values (5, 'Blowers', 'erat volutpat in congue etiam justo etiam pretium iaculis justo in');
+insert into parfums (id, nom, description) values (6, 'Ashingden', 'convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla');
+insert into parfums (id, nom, description) values (7, 'Bredee', 'integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum');
+insert into parfums (id, nom, description) values (8, 'Tabram', 'ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar');
+insert into parfums (id, nom, description) values (9, 'Padson', 'eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient');
+insert into parfums (id, nom, description) values (10, 'Chainey', 'nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor');
+insert into parfums (id, nom, description) values (11, 'Bedson', 'quam a odio in hac habitasse platea dictumst maecenas ut massa');
+insert into parfums (id, nom, description) values (12, 'Collip', 'tortor quis turpis sed ante vivamus tortor duis mattis egestas');
+insert into parfums (id, nom, description) values (13, 'd''Arcy', 'mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis');
+insert into parfums (id, nom, description) values (14, 'Gritten', 'ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse');
+insert into parfums (id, nom, description) values (15, 'Banane', 'nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae');
+insert into parfums (id, nom, description) values (16, 'Larchiere', 'euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc');
+insert into parfums (id, nom, description) values (17, 'McTerlagh', 'vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula');
+insert into parfums (id, nom, description) values (18, 'Cawthery', 'vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue');
+insert into parfums (id, nom, description) values (19, 'McCurry', 'mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus');
+insert into parfums (id, nom, description) values (20, 'Zannotelli', 'egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero');
